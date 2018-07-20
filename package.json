@@ -1,6 +1,6 @@
 {
   "name": "libreria-levhita",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Repeat Nunca mas as many times as needed",
   "main": "lib/alanPoe.js",
   "scripts": {
